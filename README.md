@@ -21,7 +21,7 @@
 
 | 🌐 Live Demo | 📂 GitHub Repo |
 |:---:|:---:|
-| **[planetrix.vercel.app](https://planetrix.vercel.app)** | **[github.com/zahid397/planetrix](https://github.com/zahid397/planetrix)** |
+| **[planetrix.vercel.app](https://planetrix-gamma.vercel.app/)** | **[github.com/zahid397/planetrix](https://github.com/zahid397/planetrix)** |
 
 <br />
 
